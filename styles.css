@@ -1,0 +1,36 @@
+*{
+  text-align: center;
+}
+
+body{ 
+  background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 35%, rgba(194,1,136,1) 79%);
+}
+
+h1 { 
+  font-size: 30px;
+  color: black;
+  margin-top: 130px;
+  text-align: center;
+}
+
+p{
+  margin-top: 50px;
+}
+
+button { 
+  margin-top: 0px;
+  height: 40px;
+  font-size: 20px;
+  width: 250px;
+  cursor: pointer;
+  border: 3px solid #ffb6c1;
+  border-radius: 20px;
+  background-color: #f08080;
+  color: White;
+}
+
+button:hover{ 
+    color: #323232;
+  background-color: #f08080;
+}
